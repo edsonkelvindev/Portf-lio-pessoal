@@ -1,0 +1,77 @@
+@media (max-width: 1150px) {
+    .cabecalho {
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        padding: 58px 0;
+        gap: 15px;
+    }
+}
+
+.cabecalho h1 {
+    margin-top: 20px;
+}
+
+@media (max-width: 850px) {
+    .cabecalho li {
+        margin-top: 10px;
+        padding: 15px 8px;
+    }
+}
+
+.cabecalho li a {
+    font-size: 20px;
+}
+
+@media (max-width: 1150px) {
+    .conteiner {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media (max-width: 1150px) {
+    .foto {
+        height: 300px;
+        align-items: center;
+    }
+}
+
+.texto-pagina {
+    min-height: 203px;
+    margin-top: 45px;
+    margin-left: 50px;
+}
+
+@media (max-width: 800px) {
+    .sobre-mim p {
+        width: 400px;
+        padding: 10px;
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 1000px){
+    .conteiner-projeto{
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+}
+
+@media (max-width: 1050px) {
+    .conteiner-contato {
+        width: 100%;
+    }
+}
+
+.btn-1 {
+    font-size: 13px;
+}
+
+@media (max-width: 600px) {
+    .rodape {
+        font-size: 20px;
+    }
+}
