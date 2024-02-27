@@ -1,1 +1,1 @@
-Esse projeto e um portfólio desenvolvido de forma acadêmica utilizando HTML e CSS.
+Esse projeto e um portfólio desenvolvido de forma acadêmica utilizando HTML e CSS, responsivo para desktop.
